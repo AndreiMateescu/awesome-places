@@ -1,11 +1,5 @@
 # Awesome Places
 
-<img src="./pictures/app-icon.png" alt="app icon" width="200" height="200" />
-
-* One, taking pictures of the places you like.
-* Two, marking the location or locating yourself.
-* Three, sharing it with everyone!
-
 This is a React Native app, so it can be built for both Android and iOS. :)
 
 Currently available on the Play Store.
