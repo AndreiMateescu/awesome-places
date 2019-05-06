@@ -20,9 +20,3 @@ Currently available on the Play Store.
 - Language: JSX (JavaScript)
 - Database: Firebase Realtime Database
 - API: Google Map API
-
-
-
-## Acknowledgements
-
-* Some parts of this application were inspired by the course of [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) by *Maximilian Schwarzmüller*.
